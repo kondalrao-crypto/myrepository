@@ -37,6 +37,7 @@ public class Maleemployeeregister extends jsonforhashmap{
 //		driver.findElement(By.id("password")).sendKeys(input.get("password"));
 //		driver.findElement(By.id("card")).sendKeys(input.get("card"));
 //		driver.findElement(By.id("login_btn")).click();
+	//driver
 	ReusableTestComponents 	reusableTestComponents=new ReusableTestComponents();
 	reusableTestComponents.setUp();
 		LandingPage landingPage = new LandingPage(driver);	
