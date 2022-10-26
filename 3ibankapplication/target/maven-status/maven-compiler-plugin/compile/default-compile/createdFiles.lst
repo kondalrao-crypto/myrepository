@@ -1,0 +1,7 @@
+Resources\ReadPropertyFile.class
+AbstractComponent\CommonActions.class
+PageComponent\HomePage.class
+PageComponent\PersonalDetails.class
+PageComponent\EmploymentDetails.class
+PageComponent\LandingPage.class
+PageComponent\ApprovalPage.class
